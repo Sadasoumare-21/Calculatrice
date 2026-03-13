@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Sadasoumare-21.github.io/calculatrice",
+  "homepage": "https://sadasoumare-21.github.io/Calculatrice/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
